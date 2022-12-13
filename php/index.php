@@ -7,7 +7,7 @@
 
     <body>
         <?php
-            echo "Hello, World!";
+            echo "Hello, World! Welcome to Sarah's website";
         ?>
     </body>
 </html>
